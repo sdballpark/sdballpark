@@ -33,4 +33,3 @@
 - [Email](robert.bogan3@gmail.com)
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
