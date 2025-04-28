@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hello! I'm Robert Bogan
 
-<!--
-**sdballpark/sdballpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Scientist | CISSP Cybersecurity Professional 20+ years | Machine Learning Engineer | AI Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **What I Do:**
+- Build predictive models to solve real-world business problems
+- Architect scalable data pipelines and machine learning systems
+- Explore deep learning, NLP, computer vision, and MLOps
+
+🔧 **Technical Skills:**
+- **Machine Learning:** Scikit-learn, XGBoost, LightGBM
+- **Deep Learning:** TensorFlow, Keras, PyTorch
+- **Data Engineering:** SQL, Apache Spark, AWS S3
+- **Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
+- **Deployment:** Streamlit, FastAPI, Flask, Docker
+- **Cloud:** AWS, GCP, Azure
+
+🌱 **Currently Learning:** Advanced MLOps and Model Interpretability (SHAP, LIME)
+
+---
+
+📂 **Featured Projects:**
+- [🏦 Credit Risk Prediction with XGBoost](https://github.com/your-username/credit-risk-prediction)
+- [🧠 Deep Learning Image Classifier (CNNs)](https://github.com/your-username/deep-learning-image-classifier)
+- [⚡ Real-Time Fraud Detection using Apache Spark](https://github.com/your-username/fraud-detection-spark)
+
+---
+
+🤝 **Let's Connect:**
+- [LinkedIn](www.linkedin.com/in/robert-l-bogan-jr)
+- [Email](robert.bogan3@gmail.com)
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
