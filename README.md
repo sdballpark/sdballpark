@@ -22,9 +22,10 @@
 ---
 
 📂 **Featured Projects:**
-- [🏦 Credit Risk Prediction with XGBoost](https://github.com/sdballpark/credit-risk-prediction)
+- [🏦 Credit Risk Prediction with XGBoost](https://github.com/sdballpark/loan-default-xgboost)
 - [📝 Resume Matching NLP Project](https://github.com/sdballpark/resume-matching-nlp)
 - [⚡ Real-Time Fraud Detection using Apache Spark](https://github.com/sdballpark/fraud-detection-spark)
+
 
 
 ---
