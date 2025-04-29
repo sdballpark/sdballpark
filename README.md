@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Robert Bogan
 
-Welcome to my GitHub! I'm a passionate and growing Machine Learning Engineer and Data Scientist, combining technical depth with a creative, real-world problem-solving mindset.
+Welcome to my GitHub! I'm a CISSP-certified, security-first Machine Learning Engineer and Data Scientist, combining technical depth with a creative, real-world problem-solving mindset. Passionate about building resilient, ethical, and impactful AI solutions.
 
 ---
 
@@ -27,8 +27,15 @@ I love building models that solve real-world problems — whether it's detecting
 
 ---
 
+## 🌱 Coming Soon:
+- Deep Learning Projects (CNNs, RNNs, Transformers)
+- Time Series Forecasting (Prophet, ARIMA)
+- Deployment of ML models to the cloud (AWS/GCP)
+
+---
+
 ## 📫 How to Reach Me:
-- **Email:** robert.bogan3@gmail.com
+- **Email:** sdballpark@gmail.com
 - **LinkedIn:** [www.linkedin.com/in/robert-l-bogan-jr](https://www.linkedin.com/in/robert-l-bogan-jr)
 
 ---
