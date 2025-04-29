@@ -23,8 +23,9 @@
 
 📂 **Featured Projects:**
 - [🏦 Credit Risk Prediction with XGBoost](https://github.com/your-username/credit-risk-prediction)
-- [🧠 Deep Learning Image Classifier (CNNs)](https://github.com/your-username/deep-learning-image-classifier)
-- [⚡ Real-Time Fraud Detection using Apache Spark](https://github.com/your-username/fraud-detection-spark)
+- [📝 Resume Matching NLP Project](https://github.com/sdballpark/resume-matching-nlp)
+- [⚡ Real-Time Fraud Detection using Apache Spark](https://github.com/sdballpark/fraud-detection-spark)
+
 
 ---
 
