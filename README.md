@@ -35,8 +35,8 @@ I love building models that solve real-world problems — whether it's detecting
 ---
 
 ## 📫 How to Reach Me:
-- **Email:** sdballpark@gmail.com
-- **LinkedIn:** [www.linkedin.com/in/robert-l-bogan-jr](https://www.linkedin.com/in/robert-l-bogan-jr)
+- **Email:** [Email](sdballpark@gmail.com)  
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/robert-l-bogan-jr)  
 
 ---
 
