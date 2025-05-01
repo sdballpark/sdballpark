@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Robert Bogan
+# 👋 Hi, I'm RobertB
 
 Welcome to my GitHub! I'm a CISSP-certified, security-first Machine Learning Engineer and Data Scientist, combining technical depth with a creative, real-world problem-solving mindset. Passionate about building resilient, ethical, and impactful AI solutions.
 
