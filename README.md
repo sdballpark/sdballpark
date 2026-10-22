@@ -52,6 +52,8 @@ Defense-in-depth controls for LLM applications: a Rust prompt-injection detectio
 ### [Clinical RAG](https://github.com/sdballpark/clinical-rag)
 Local clinical RAG over a medical reference manual, with hybrid retrieval, domain cross-encoder confidence, two-layer abstention, and an evaluation harness using human-validated judges.
 
+**Measured result:** on 48 golden items, the abstention gate refused all 6 out-of-corpus questions while serving 98% of answerable ones, with 90% citation coverage and no invalid citations. A validation run that seemed to show both judges missing all 10 injected hallucinations turned out to be scoring stale verdicts; judged correctly, MiniCheck caught 10 of 10.
+
 ## Other Projects
 
 - [Remediation Recommender](https://github.com/sdballpark/remediation-recsys): two-stage recommendation engine with collaborative filtering and LightGBM LambdaRank, a SQL feature pipeline, an evaluation gate and FastAPI serving.
