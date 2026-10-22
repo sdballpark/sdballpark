@@ -46,9 +46,6 @@ Natural-language-to-KQL benchmark for security questions.
 
 **Measured result:** schema grounding raised execution success from 9.1% to 68.2% on a local 14B model, measured against a real Kusto engine on the project test set.
 
-### [AI Security Platform](https://github.com/sdballpark/ai-security-platform)
-Defense-in-depth controls for LLM applications: a Rust prompt-injection detection engine and a Go security gateway sharing one detection core, mapped to the OWASP LLM Top 10 and MITRE ATLAS.
-
 ### [Clinical RAG](https://github.com/sdballpark/clinical-rag)
 Local clinical RAG over a medical reference manual, with hybrid retrieval, domain cross-encoder confidence, two-layer abstention, and an evaluation harness using human-validated judges.
 
@@ -56,6 +53,7 @@ Local clinical RAG over a medical reference manual, with hybrid retrieval, domai
 
 ## Other Projects
 
+- [AI Security Platform](https://github.com/sdballpark/ai-security-platform): a Rust prompt-injection detection engine and a Go security gateway sharing one detection core. A CI gate runs a labeled corpus on every commit: 25 of 26 attacks detected and 0 of 15 benign inputs flagged; the miss is character-spaced text.
 - [Remediation Recommender](https://github.com/sdballpark/remediation-recsys): two-stage recommendation engine with collaborative filtering and LightGBM LambdaRank, a SQL feature pipeline, an evaluation gate and FastAPI serving.
 - [AI Agent Automation](https://github.com/sdballpark/ai-agent-automation): multi-stage LLM workflow that generates, reviews and revises structured content.
 
