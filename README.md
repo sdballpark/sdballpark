@@ -8,18 +8,11 @@ My current work is securing AI agents, LLM applications, RAG architectures and a
 
 ## Current Focus
 
-- AI and LLM security
-- Agentic AI security
-- MCP and agent tool authorization
-- Prompt injection and adversarial testing
-- RAG security
-- Microsoft Sentinel and KQL
-- Microsoft 365 Copilot and Copilot agents
-- Azure AI, Azure OpenAI and Google Cloud Vertex AI
-- Human-in-the-loop security controls
-- AI security governance
-- Security automation
-- EDR and XDR
+- Agentic AI security: MCP tool authorization and human approval for agent actions
+- Prompt-injection and adversarial testing of agents and RAG systems
+- LLM and agent evaluation with labeled datasets and reproducible measurement
+- AI security controls on Microsoft 365, Azure and Google Cloud
+- Detection engineering with Microsoft Sentinel and KQL
 
 ## Featured Projects
 
