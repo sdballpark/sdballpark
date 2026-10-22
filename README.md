@@ -63,7 +63,6 @@ Local clinical RAG over a medical reference manual, with hybrid retrieval, domai
 
 - [Remediation Recommender](https://github.com/sdballpark/remediation-recsys): two-stage recommendation engine with collaborative filtering and LightGBM LambdaRank, a SQL feature pipeline, an evaluation gate and FastAPI serving.
 - [AI Agent Automation](https://github.com/sdballpark/ai-agent-automation): multi-stage LLM workflow that generates, reviews and revises structured content.
-- [Go Resume Matcher CLI](https://github.com/sdballpark/go_resume_matcher_cli): lightweight Go CLI for resume-to-job matching.
 
 ## AI Security Architecture Themes
 
