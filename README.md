@@ -55,15 +55,19 @@ Lightweight Go CLI for resume-to-job matching, designed for secure enterprise de
 ## AI Security Architecture Themes
 
 **Agent security**
+
 Identity → Authorization → Tool permission → Human approval → Execution → Audit
 
 **RAG security**
+
 User → Retrieval → Untrusted content → LLM → Policy enforcement → Response
 
 **Adversarial testing**
+
 Prompt injection · Indirect prompt injection · Tool abuse · Privilege escalation · Data exfiltration · Unsafe agent actions
 
 **AI governance**
+
 NIST AI RMF · MITRE ATLAS · Secure by design · Zero Trust · AI TRiSM
 
 ## Cybersecurity Background
