@@ -87,4 +87,4 @@ These projects trace the path from applied machine learning into AI security eng
 
 ## Connect
 
-[LinkedIn](www.linkedin.com/in/robert-l-bogan-jr)
+[LinkedIn](https://www.linkedin.com/in/robert-l-bogan-jr/)
